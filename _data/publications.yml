@@ -1,5 +1,12 @@
 main:
 
+  - title: "Cultivating teamwork in esports: a framework for assessment and training"
+    authors: S. A. Boettcher, M. J. Brunell, D. J. Griffin, <strong>Joshua J. Pearman</strong>, & A. L. Katz
+    outlet: Team Performance Management: An International Journal, 2025, 31(5-6), 390-407
+    doi: https://doi.org/10.1108/TPM-09-2023-0068
+    # url:
+    # image: ./assets/img/teaser_example_2.png
+
   - title: "The Big Five Across Socioeconomic Status: Measurement Invariance, Relationships, and Age Trends"
     authors: Bradley T. Hughes*, Cory K. Costello, <strong>Joshua Pearman</strong>, Pooya Razavi, Cianna Bedford-Petersen, Rita M. Ludwig, Sanjay Srivastava (*Corresponding authors)
     outlet: Collabra Psychology, 2021
