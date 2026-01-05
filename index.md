@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in Organizational Psychology at Michigan State University. My research broadly is concerned with the use of computational approaches to understanding people's individual differences, team dynamics, and the interplay between them to paint a richer picture of how groups work. I am also interested in leveraging technological approaches to psychological research, ranging from working with digital trace data and unobtrusive measures (e.g., audio transcripts, computer-tracked decision-making) to leveraging game environments to measure granular team behaviors (e.g., using Counter Strike to study human-AI teaming). 
+I completed my Ph.D. in Organizational Psychology at Michigan State University in 2025. My research broadly is concerned with the use of computational approaches to understanding people's individual differences, team dynamics, and the interplay between them to paint a richer picture of how groups work. I am also interested in leveraging technological approaches to psychological research, ranging from working with digital trace data and unobtrusive measures (e.g., audio transcripts, computer-tracked decision-making) to leveraging game environments to measure granular team behaviors (e.g., using Counter Strike to study human-AI teaming). 
 
 ## Research Interests
 
@@ -16,6 +16,7 @@ I am a Ph.D. candidate in Organizational Psychology at Michigan State University
 
 ## News
 
+- **[Jan. 2025]** Successfully defended my Ph.D. in Organizational Psychology!
 - **[Dec. 2024]** On the hunt for new opportunities!
 
 {% include_relative _includes/publications.md %}
